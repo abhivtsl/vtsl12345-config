@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to vtsl12345 accounts related Production(vtsl12345) APIs "
+  message: "Welcome to vtsl12345 accounts related PRODUCTION(vtsl12345) APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}886e8788ca6e606f657b7f8da19c00a003503c7fef82f66c8b19f3568d2fe95acc3e2cadba28df6ff0d9351e4277135d"
